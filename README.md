@@ -7,5 +7,5 @@
     - Set values to registry key variable
     - Get values from registry key variable
     - Delete registry key
- 2. Registry Backup is a little bit more complex program that creates a directory for a specific key in registry,
+ 2. Registry Backup is a bit more complex program that creates a directory for a specific key in registry,
     and recursively creates directories for his subkeys and files for his values.
