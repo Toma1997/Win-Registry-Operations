@@ -1,5 +1,7 @@
 # Windows-Registry-Operations
 
+This was project for final exam on course Digital Forensics.
+
 1. Key Operations directory contain a simple program to manipulate over Key variables
    Add, Modify, Delete Key in Windows Registry
    I have used 4 functions to manipulate with registry key:
