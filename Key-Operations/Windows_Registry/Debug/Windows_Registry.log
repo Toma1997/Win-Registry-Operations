@@ -1,3 +1,0 @@
-﻿  main.cpp
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Windows_Registry.vcxproj -> C:\Users\Korisnik\Desktop\Faks- Softversko i Informaciono Inzenjerstvo\3. Godina\1. Semestar\Osnove Digitalne Forenzike\Vezbe\Ispit\Zavrsni projekat\Debug\Windows_Registry.exe
